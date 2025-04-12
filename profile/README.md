@@ -1,0 +1,13 @@
+# Overkill.sh<sup>TM</sup>
+> `https://overkill.sh` <br/>
+> `https://confusing.wtf` <br/>
+
+## Official Members
+- [reset](https://github.com/resetd3v)
+- [nikko](https://github.com/n-ikko)
+- [boder](https://github.com/Body-Alhoha)<sub>_`not really`_</sub>
+
+## Special thanks to
+- `my gf and her car :3`
+- [jonah](https://github.com/nopjo) `(for help on backend and frontend)`
+- [autism inc](https://discord.gg/bukkit) `(for autism training)`
