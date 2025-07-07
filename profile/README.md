@@ -10,5 +10,4 @@
 
 ## Special thanks to
 - `my gf and her car :3`
-- [jonah](https://github.com/nopjo) `(for help on backend and frontend)`
 - [autism inc](https://discord.gg/bukkit) `(for autism training)`
