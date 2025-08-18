@@ -8,6 +8,10 @@
 - [april](https://github.com/methodhandle) <sub>actual digital witch :3 expert hv pro</sub>
 - [boder](https://github.com/Body-Alhoha)<sub>_`not really`_</sub>
 
+### Applying
+- `lwes`
+- `kwenma`
+
 ## Special thanks to
 - `my gf and her car :3`
 - [autism inc](https://discord.gg/bukkit) `(for autism training)`
