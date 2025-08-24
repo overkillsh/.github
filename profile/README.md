@@ -10,7 +10,6 @@
 
 ### Applying
 - `lwes`
-- `kwenma`
 
 ## Special thanks to
 - `my gf and her car :3`
